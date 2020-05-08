@@ -2,7 +2,8 @@ List of things added
 --------
 
 * Change shortcuts to be zathura like.
-
+* Change Prefix to be like tmux => Alt + f
+* For exec shortcuts commands look in the dotfiles
 
 
 Building
@@ -10,8 +11,7 @@ Building
 
 sxiv is built using the commands:
 
-    $ make
-    # sudo make install
+    $ sudo make clean install
 
 **Latest Release**
 
