@@ -2,3 +2,4 @@ version.h
 *.d
 *.o
 sxiv
+config.h
